@@ -1,0 +1,55 @@
+.container{
+    position: fixed;
+    top: 20%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.gray{
+    height: 200px;
+    width: 200px;
+    border: 15px solid gray; 
+    border-radius: 50%;
+}
+.red{
+    height: 181px;
+    width: 181px;
+    border: 10px solid red;
+    border-radius: 50%;
+}
+.circle{
+    height: 200px;
+    width: 182px;
+    border-radius: 50%;
+
+}
+.purple{
+    background-color: purple;
+    
+}
+.blue{
+    background-color: blue;
+}
+.orange{
+    background-color: orange;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    position: relative;
+    top: 32%;
+}
+.circlebox{
+    display: flex;
+    height: 250vh;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 152px;
+    padding-bottom: 374px;
+    padding-left: 16px;
+
+}
